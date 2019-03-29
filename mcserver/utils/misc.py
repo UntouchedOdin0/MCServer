@@ -45,7 +45,7 @@ DEFAULT_SERVER_PROPERTIES = {
     'prevent-proxy-connections': False,
     'use-native-transport': True,
     'enable-rcon': False,
-    'motd': 'A Minecraft Server'
+    'motd': 'A Minecraft Server - Powered by Python!'
 }
 
 AnyBuffer = Union[Buffer1_7, Buffer1_9, Buffer1_13]
